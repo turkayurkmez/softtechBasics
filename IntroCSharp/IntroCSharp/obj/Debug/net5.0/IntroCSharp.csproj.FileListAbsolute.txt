@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\ref\IntroCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\ref\IntroCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.genruntimeconfig.cache
