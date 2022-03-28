@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\ref\firstApp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\bin\Debug\net5.0\firstApp.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\ref\firstApp.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\firstApp\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
