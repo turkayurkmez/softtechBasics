@@ -41,6 +41,12 @@ namespace IntroCSharp
             //mantıksal
             bool olduMu = false;
 
+            var word = "computer";
+
+            var x = 0.65;
+
+            var isHot = true;
+
 
 
 
