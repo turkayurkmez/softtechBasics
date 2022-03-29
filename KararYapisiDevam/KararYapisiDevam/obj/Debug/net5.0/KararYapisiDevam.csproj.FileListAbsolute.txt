@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\ref\KararYapisiDevam.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\ref\KararYapisiDevam.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.genruntimeconfig.cache
