@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ArrayAndCollection
 {
@@ -33,6 +34,16 @@ namespace ArrayAndCollection
             int birlerBasamagindakiDeger = sayi % 10;
 
             Console.WriteLine($"{onlar[onlarBasamagindakiDeger]} {birler[birlerBasamagindakiDeger]}");
+
+            List<string> products = new List<string>();
+            products.Add("Gazete");
+            products.Add("Şişe");
+
+            List<double> prices = new List<double>();
+            List<DateTime> tatilGunleri = new List<DateTime>();
+            
+
+            
 
 
 
