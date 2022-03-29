@@ -20,7 +20,7 @@ namespace Methods
             //}
 
             Console.WriteLine(isEven(x) ? "Çifttir" : "Tektir");
-            int[] weathers = { 22, 19, 0, 36, 52 };
+            int[] weathers = { 22, 19, 0, 36, 52,18 };
             showMessage($"en yüksek sıcaklık: {getMaxNumber(weathers)}");
         }
 
