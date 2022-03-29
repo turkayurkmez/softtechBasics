@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\ref\loops.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\bin\Debug\net5.0\loops.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\ref\loops.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\Loops\obj\Debug\net5.0\loops.genruntimeconfig.cache
