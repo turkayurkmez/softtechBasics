@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ref\ArrayAndCollection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ref\ArrayAndCollection.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.genruntimeconfig.cache
