@@ -26,7 +26,7 @@ namespace Methods
             showMessage($"en yüksek sıcaklık: {getMaxNumber(weathers)}");
 
             string companyName = "softtech";
-            companyName.i
+            //companyName.i
             int indexPosition = IndexOf(companyName, 't');
 
             Console.WriteLine( indexPosition == -1 ? "aradığınız harf kelimede yok" : $"index değeri: {indexPosition}");
