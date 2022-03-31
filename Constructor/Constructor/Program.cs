@@ -16,7 +16,9 @@ namespace Constructor
             CamasirMakinesi electrolux = new CamasirMakinesi { CalismaHizi = 1200, Renk = "Mavi", EnerjiTuketimi = "A++" };
             Console.WriteLine($"{electrolux.Renk} {electrolux.CalismaHizi} ve {electrolux.EnerjiTuketimi}");
 
-            
+            ReportGenerator reportGenerator = new ReportGenerator("C:\\excel1.xlsx");
+            reportGenerator.ExcelFilePath = "C:\\excel1.xlsx";
+            reportGenerator.Generate();
         }
     }
 }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{F9242924-A9DD-41EF-86D0-CB3AE1BF5EA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loops", "loops.csproj", "{76DFF2F9-66EF-41B3-BA45-F3A11340F2AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9242924-A9DD-41EF-86D0-CB3AE1BF5EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9242924-A9DD-41EF-86D0-CB3AE1BF5EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9242924-A9DD-41EF-86D0-CB3AE1BF5EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9242924-A9DD-41EF-86D0-CB3AE1BF5EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DFF2F9-66EF-41B3-BA45-F3A11340F2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DFF2F9-66EF-41B3-BA45-F3A11340F2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DFF2F9-66EF-41B3-BA45-F3A11340F2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DFF2F9-66EF-41B3-BA45-F3A11340F2AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {58B60AB8-80B8-4E30-BC98-2CE3589CE1E6}
+		SolutionGuid = {0FDF5015-1799-4244-B1D6-BD560F48F514}
 	EndGlobalSection
 EndGlobal

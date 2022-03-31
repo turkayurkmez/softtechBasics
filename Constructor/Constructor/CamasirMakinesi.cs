@@ -23,5 +23,6 @@ namespace Constructor
             Renk = renk;
         }
 
+
     }
 }

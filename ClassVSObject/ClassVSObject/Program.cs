@@ -16,9 +16,9 @@ namespace ClassVSObject
 
             Console.WriteLine(developer1.GetAge());
 
-            //Employee developer2 = developer1;
-            //developer2.Name = "Rüstem";
-            //developer2.Age = 31;
+            Employee developer2 = new Employee();
+            developer2.Name = "Rüstem";
+            developer2.SetAge(31);
 
             //Console.WriteLine(developer1.Name);
 
