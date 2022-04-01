@@ -101,6 +101,8 @@ namespace simpleSample
 
         private static void showAllProducts(List<Product> products)
         {
+            Console.WriteLine("All Products are showing");
+            Console.WriteLine("..............................");
             foreach (var product in products)
             {
                 Console.WriteLine($"| {product.Id} | {product.Name} | {product.Price} | {product.Description}");
