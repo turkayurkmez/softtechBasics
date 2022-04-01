@@ -7,12 +7,23 @@ using System.Threading.Tasks;
 namespace AbstractAndInterface
 {
     //Abstract: instance alınamayan sadece miras alınan sınıf
-   public abstract class Document
+   public abstract  class Document
     {
         public abstract void Open();
         public void Copy(string from, string to)
         {
             Console.WriteLine("dosya kopyalandı");
+        }
+        public void Move(string from, string to)
+        {
+            Console.WriteLine("dosya taşındı");
+        }
+
+        public string Title { get; set; }
+        
+        public virtual void Delete(string path)
+        {
+            Console.WriteLine("doküman silindi");
         }
 
         public abstract void Save();
@@ -27,12 +38,12 @@ namespace AbstractAndInterface
 
     public class PdfDocument : Document
     {
+
         public override void Open()
         {
-            Console.WriteLine($"{this.GetType().Name} açıldı" );
+            Console.WriteLine($"{this.GetType().Name} açıldı");
         }
 
-    
 
         public override void Save()
         {
@@ -78,6 +89,8 @@ namespace AbstractAndInterface
             Console.WriteLine($"{this.GetType().Name} kaydedildi");
 
         }
+
+       
     }
     public class PowerPointDocument : Document
     {
