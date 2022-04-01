@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.exe
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.deps.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\ref\BuiltInInterfaces.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\ref\BuiltInInterfaces.dll
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.pdb
+C:\Users\turka\source\repos\Kurumsal\Softtech\Temel C#\Part I\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.genruntimeconfig.cache
